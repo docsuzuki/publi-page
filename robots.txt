@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://docsuzuki.github.io/publi-page/sitemap.xml
