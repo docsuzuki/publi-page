@@ -3,10 +3,45 @@
     <title>Hyoga blog</title>
     <link href="https://docsuzuki.github.io/publi-page/feed.xml" rel="self" />
     <link href="https://docsuzuki.github.io/publi-page" />
-    <updated>1970-01-01T09:00:00+09:00</updated>
+    <updated>2023-01-30T16:21:23+09:00</updated>
     <author>
         <name>瓢牙</name>
     </author>
     <id>https://docsuzuki.github.io/publi-page</id>
 
+    <entry>
+        <title>鷽替え行事を楽しむ</title>
+        <author>
+            <name>瓢牙</name>
+        </author>
+        <link href="https://docsuzuki.github.io/publi-page/xue-ti-exing-shi-wole-simu.html"/>
+        <id>https://docsuzuki.github.io/publi-page/xue-ti-exing-shi-wole-simu.html</id>
+
+        <updated>2023-01-30T16:21:23+09:00</updated>
+            <summary>
+                <![CDATA[
+                    鷽替え行事を楽しむためには、まず参加者が必要です。 参加者は、友人や家族など、自分が信頼できる人たちを集める必要があります。 次に、参加者が持ち寄るうそを決めます。参加者は、自分が思いついたうそを持ち寄ります。 最後に、参加者は、自分が持ち寄ったうそを他の参加者に替えてもらいます。これで、うそ替え行事が始まります。
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    鷽替え行事を楽しむためには、まず参加者が必要です。
+  </p>
+
+  <p>
+    参加者は、友人や家族など、自分が信頼できる人たちを集める必要があります。
+  </p>
+
+  <p>
+    次に、参加者が持ち寄るうそを決めます。参加者は、自分が思いついたうそを持ち寄ります。
+  </p>
+
+  <p>
+    最後に、参加者は、自分が持ち寄ったうそを他の参加者に替えてもらいます。これで、うそ替え行事が始まります。<br>
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
